@@ -1,9 +1,6 @@
-autobahn==0.11.0
-py4j==0.9.2
-pymongo==3.2.2
-requests==2.9.1
+autobahn==0.14.1
 six==1.10.0
-spark-python==0.0.1
-Twisted==15.5.0
-txaio==2.2.2
+Twisted==16.2.0
+txaio==2.5.1
+wheel==0.24.0
 zope.interface==4.1.3
